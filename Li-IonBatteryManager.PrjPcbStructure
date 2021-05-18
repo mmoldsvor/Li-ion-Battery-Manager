@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=BatteryManagerRev2.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Li-IonBatteryManager.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Li-IonBatteryManager.SchDoc|FileName=PowerSource.SchDoc|SheetNumber=2
