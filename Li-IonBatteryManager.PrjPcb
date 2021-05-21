@@ -91,6 +91,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLDRMZOV
 
+[ProjectVariant1]
+UniqueID=2954B0E4-629C-41B1-9B57-3B6967F745D8
+Description=Li-IonBatteryManager
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=C17|UniqueId=\JPSVMKOJ|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BatteryManagerRev2\BatteryManagerRev2-RoundHoles.TXT
 DItemRevisionGUID=
@@ -298,7 +307,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=SEC30CDA7364205
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
