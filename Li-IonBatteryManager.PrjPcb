@@ -188,6 +188,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for BatteryManagerRev2\Design Rule Check - BatteryManagerRev2.html
 DItemRevisionGUID=
 
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Li-IonBatteryManager\Design Rule Check - Li-IonBatteryManager.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
